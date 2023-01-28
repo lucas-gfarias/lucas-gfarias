@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Lucas+Farias;Data+Scientist+Student+and+Fullstack+Developer;Languages:+Portuguese,+English+and+German;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Lucas+Farias;Data+Scientist+and+Fullstack+Developer;I+speak+Portuguese,+English+and+German;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-gfarias&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-gfarias" /> </p>
 
