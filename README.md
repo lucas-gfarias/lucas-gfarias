@@ -23,7 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-gfarias&show_icons=true&locale=en&layout=compact" alt="lucas-gfarias" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-gfarias&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-gfarias" /> </p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-gfarias&show_icons=true&locale=en" alt="lucas-gfarias" /></p>
 
